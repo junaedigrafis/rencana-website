@@ -1,0 +1,6 @@
+Rencana ke depan:
+1. Belajar HTML & CSS dasar
+2. Belajar Git & Github
+3. Mempelajari Bootstrap 4
+4. Mempelajari membuat tampilan Website yang siap digunakan / dijual
+5. Upload Jualan template
